@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\res\includes\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(182): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(305): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\roey\source\repos\textureassg\forclass3d\forclass3d\main.cpp(306): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  forClass3D.vcxproj -> C:\Users\Roey\source\repos\TextureAssg\forClass3D\Debug\forClass3D.exe
